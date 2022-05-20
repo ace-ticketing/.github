@@ -1,6 +1,3 @@
-# .github
-this contains the readme for the organization
-
 # First install depencies.
 - skaffold : easy lauching of Kuberneties pods and clusters (global install )
   - https://skaffold.dev/docs/quickstart/
